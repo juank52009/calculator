@@ -3,7 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
-[![Build Status](https://dev.azure.com/clarogrupo1/GitHubProject/_apis/build/status/quality-code.calculator?branchName=master)](https://dev.azure.com/clarogrupo1/GitHubProject/_build/latest?definitionId=10&branchName=master)
+[![Build Status](https://juan52009.visualstudio.com/LaboratoriesDevOps/_apis/build/status/juank52009.calculator?branchName=master)](https://juan52009.visualstudio.com/LaboratoriesDevOps/_build/latest?definitionId=4&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
